@@ -25,4 +25,4 @@ Aero777, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wiki
 
 ### Detecting a car in a video
 Video snippet is from Consumer Reports website: https://www.consumerreports.org/video/view/cars/auto-test-track/1875312648/hummer-h2-2008-2009-road-test/
-https://user-images.githubusercontent.com/963577/224446778-fc307ba3-cc99-4799-b103-03a6b70637e1.mp4
+![DetectInVideo](https://user-images.githubusercontent.com/963577/224446778-fc307ba3-cc99-4799-b103-03a6b70637e1.mp4)
